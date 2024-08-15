@@ -1,0 +1,100 @@
+body{
+    background-color: aqua;
+}
+
+.image1{
+    background-color:black;
+}
+
+.image2{
+    background-color:aquamarine;
+}
+
+.image3{
+    background-color: beige;
+}
+
+.image4{
+    background-color: cadetblue;
+}
+
+#li1{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+#li2{
+    background-color: pink;
+    text-align: center;
+}
+
+.login{
+    background-color: yellow;
+}
+
+#one{
+    color: white;
+    background-color: violet;
+ }
+
+ #two{
+    color:white;
+    background-color: violet;
+ }
+
+ #names{
+    background-color: green;
+ }
+
+.list {
+    background-color: greenyellow;
+    text-align: center;
+}
+.ordered{
+    background-color: brown;
+}
+
+.table{
+    background-color: crimson;
+ }
+
+
+ #a{
+    background-color: purple;
+ }
+
+ #b{
+    background-color: lightblue;
+ }
+  
+ #c{
+    background-color:blue;
+ }
+
+ #A{
+    background-color: lightcoral;
+ }
+
+ #B{
+    background-color: gold;
+ }
+
+ #C{
+    background-color: palevioletred;
+ }
+
+#D{
+    background-color: yellowgreen;
+}
+
+#E{
+    background-color: darkviolet;
+}
+
+#F{
+    background-color: lawngreen;
+}
+
+
+ 
+
